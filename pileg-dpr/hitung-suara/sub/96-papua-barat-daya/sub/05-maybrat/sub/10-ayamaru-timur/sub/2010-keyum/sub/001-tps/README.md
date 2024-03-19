@@ -34,20 +34,20 @@ https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/960510201000
 
 https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/9605102010001-20240215-131748--1e645748-c381-4032-bec8-3c2e98bc5091.jpg
 
-https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/9605102010001-20240215-130855--4823a515-684e-46b1-bde7-c7b38e064835.jpg
+https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/9605102010001-20240318-141613--b7e3ed9c-ad76-4abc-8b19-7ee41496783a.jpg
 
 https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/9605102010001-20240215-131504--6bf95e4c-cbe3-4966-95ff-f1bd1dccd66d.jpg
 
 https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/9605102010001-20240215-131744--3033227d-a20c-4604-91d0-467a5b302b6c.jpg
 
-https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/9605102010001-20240215-131341--9d658731-f419-4a6e-9d80-80d3fc469aea.jpg
+https://sirekap-obj-formc.kpu.go.id/0fcf/pemilu/pdpr/96/05/10/20/10/9605102010001-20240318-141623--fd890b6f-8689-4fdf-866c-d1e34cef668e.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 14:33:48 |
 | Kode Dapil | 9601                |
 
 
